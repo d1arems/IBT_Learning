@@ -8,3 +8,6 @@ neofetch
 
 cd "linux_feb25"
 
+rm -rf "sample.sh"
+
+cd ../../
