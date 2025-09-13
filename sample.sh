@@ -6,3 +6,5 @@ pwd
 
 neofetch
 
+cd "linux_feb25"
+
